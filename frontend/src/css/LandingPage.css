@@ -1,0 +1,68 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.landing-page div {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.arabic-perfum {
+    max-width: 600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.landing-text{
+    font-family: 'Playfair Display', serif;
+    color: #5C3B2E;
+    font-weight: 600;
+    font-size: 2rem;
+    margin-top: 8rem;
+    cursor: pointer;
+}
+
+.landing-1 {
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    width: 300px;
+    height: auto;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.landing-2 {
+    position: absolute;
+    bottom: 5%;
+    left: 10%;
+    width: 300px;
+    height: auto;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.landing-3 {
+    position: absolute;
+    bottom: 5%;
+    right: 10%;
+    width: 300px;
+    height: auto;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.landing-4 {
+    position: absolute;
+    top: 5%;
+    right: 10%;
+    width: 300px;
+    height: auto;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}

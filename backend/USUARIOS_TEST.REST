@@ -1,0 +1,12 @@
+@dominio=http://localhost:3000
+@uid=67d1f72cc33c0660ab1494be
+
+### Crear usuario
+
+POST {{dominio}}/api/v1/users
+Content-Type: application/json
+
+{
+    "nombre": "Pepita Pérez",
+    "email": "lapepaole@gmail.com"
+}

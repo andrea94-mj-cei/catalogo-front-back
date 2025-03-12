@@ -13,12 +13,5 @@
 }
 
 .header-icons{
-  width: 2.5rem;
-}
-
-.header-titulo{
-  width: 80%;
-  display: flex;
-  justify-content: center;
-  margin: 0 auto;
+  width: 2rem;
 }
