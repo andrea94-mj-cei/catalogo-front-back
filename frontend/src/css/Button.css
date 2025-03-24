@@ -1,0 +1,15 @@
+.Button {
+    margin: 2rem auto;
+    padding: .625rem 1.25rem;
+    font-size: 1rem;
+    color: white;
+    background-color:  #5C3B2E;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition:  0.3s ease;
+  }
+  
+  .Button:hover {
+    background-color: rgb(230, 191, 120);
+  }

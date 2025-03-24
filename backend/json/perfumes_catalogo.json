@@ -1,0 +1,282 @@
+[
+    {
+        "nombre": "Oud Majestic",
+        "descripcion": "Una fragancia intensa y sofisticada con notas de madera de oud, ámbar y especias exóticas. Oud Majestic es una declaración de elegancia y poder, ideal para quienes buscan una esencia profunda y duradera. Su aroma envolvente deja una estela inolvidable, perfecta para ocasiones especiales o momentos donde quieres destacar. El oud, conocido como oro líquido, se fusiona con la calidez del ámbar y la complejidad de las especias para crear un perfume que deja huella.",
+        "precio": 75,
+        "tamano": 100,
+        "imagen": "https://ejemplo.com/oud-majestic.jpg"
+    },
+    {
+        "nombre": "Musk Royale",
+        "descripcion": "Musk Royale combina la frescura del almizcle con toques de vainilla y notas florales suaves, creando una fragancia equilibrada y sofisticada. Su esencia delicada y seductora es ideal para el uso diario o para destacar en eventos nocturnos. Cada nota ha sido seleccionada cuidadosamente para crear un perfume que envuelve la piel con una sensación de lujo y elegancia. El almizcle puro, combinado con un fondo de ámbar y sándalo, proporciona una fragancia envolvente y cautivadora.",
+        "precio": 60,
+        "tamano": 50,
+        "imagen": "https://ejemplo.com/musk-royale.jpg"
+    },
+    {
+        "nombre": "Amber Sultana",
+        "descripcion": "Amber Sultana es un tributo a la opulencia y el misterio del Medio Oriente. Con notas de ámbar dorado, incienso y rosas, esta fragancia captura la esencia de la tradición árabe en un frasco. Su aroma cálido y envolvente es perfecto para quienes buscan una fragancia con carácter y profundidad. Inspirado en los palacios de los sultanes, este perfume exuda una riqueza olfativa que perdura, con una mezcla armoniosa de resinas y maderas preciosas.",
+        "precio": 85,
+        "tamano": 100,
+        "imagen": "https://ejemplo.com/amber-sultana.jpg"
+    },
+    {
+        "nombre": "Perfume 4",
+        "descripcion": "Perfume 4 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 54,
+        "tamano": 54,
+        "imagen": "https://ejemplo.com/perfume-4.jpg"
+    },
+    {
+        "nombre": "Perfume 5",
+        "descripcion": "Perfume 5 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 55,
+        "tamano": 55,
+        "imagen": "https://ejemplo.com/perfume-5.jpg"
+    },
+    {
+        "nombre": "Perfume 6",
+        "descripcion": "Perfume 6 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 56,
+        "tamano": 56,
+        "imagen": "https://ejemplo.com/perfume-6.jpg"
+    },
+    {
+        "nombre": "Perfume 7",
+        "descripcion": "Perfume 7 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 57,
+        "tamano": 57,
+        "imagen": "https://ejemplo.com/perfume-7.jpg"
+    },
+    {
+        "nombre": "Perfume 8",
+        "descripcion": "Perfume 8 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 58,
+        "tamano": 58,
+        "imagen": "https://ejemplo.com/perfume-8.jpg"
+    },
+    {
+        "nombre": "Perfume 9",
+        "descripcion": "Perfume 9 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 59,
+        "tamano": 59,
+        "imagen": "https://ejemplo.com/perfume-9.jpg"
+    },
+    {
+        "nombre": "Perfume 10",
+        "descripcion": "Perfume 10 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 60,
+        "tamano": 60,
+        "imagen": "https://ejemplo.com/perfume-10.jpg"
+    },
+    {
+        "nombre": "Perfume 11",
+        "descripcion": "Perfume 11 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 61,
+        "tamano": 61,
+        "imagen": "https://ejemplo.com/perfume-11.jpg"
+    },
+    {
+        "nombre": "Perfume 12",
+        "descripcion": "Perfume 12 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 62,
+        "tamano": 62,
+        "imagen": "https://ejemplo.com/perfume-12.jpg"
+    },
+    {
+        "nombre": "Perfume 13",
+        "descripcion": "Perfume 13 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 63,
+        "tamano": 63,
+        "imagen": "https://ejemplo.com/perfume-13.jpg"
+    },
+    {
+        "nombre": "Perfume 14",
+        "descripcion": "Perfume 14 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 64,
+        "tamano": 64,
+        "imagen": "https://ejemplo.com/perfume-14.jpg"
+    },
+    {
+        "nombre": "Perfume 15",
+        "descripcion": "Perfume 15 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 65,
+        "tamano": 65,
+        "imagen": "https://ejemplo.com/perfume-15.jpg"
+    },
+    {
+        "nombre": "Perfume 16",
+        "descripcion": "Perfume 16 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 66,
+        "tamano": 66,
+        "imagen": "https://ejemplo.com/perfume-16.jpg"
+    },
+    {
+        "nombre": "Perfume 17",
+        "descripcion": "Perfume 17 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 67,
+        "tamano": 67,
+        "imagen": "https://ejemplo.com/perfume-17.jpg"
+    },
+    {
+        "nombre": "Perfume 18",
+        "descripcion": "Perfume 18 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 68,
+        "tamano": 68,
+        "imagen": "https://ejemplo.com/perfume-18.jpg"
+    },
+    {
+        "nombre": "Perfume 19",
+        "descripcion": "Perfume 19 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 69,
+        "tamano": 69,
+        "imagen": "https://ejemplo.com/perfume-19.jpg"
+    },
+    {
+        "nombre": "Perfume 20",
+        "descripcion": "Perfume 20 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 70,
+        "tamano": 70,
+        "imagen": "https://ejemplo.com/perfume-20.jpg"
+    },
+    {
+        "nombre": "Perfume 21",
+        "descripcion": "Perfume 21 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 71,
+        "tamano": 71,
+        "imagen": "https://ejemplo.com/perfume-21.jpg"
+    },
+    {
+        "nombre": "Perfume 22",
+        "descripcion": "Perfume 22 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 72,
+        "tamano": 72,
+        "imagen": "https://ejemplo.com/perfume-22.jpg"
+    },
+    {
+        "nombre": "Perfume 23",
+        "descripcion": "Perfume 23 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 73,
+        "tamano": 73,
+        "imagen": "https://ejemplo.com/perfume-23.jpg"
+    },
+    {
+        "nombre": "Perfume 24",
+        "descripcion": "Perfume 24 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 74,
+        "tamano": 74,
+        "imagen": "https://ejemplo.com/perfume-24.jpg"
+    },
+    {
+        "nombre": "Perfume 25",
+        "descripcion": "Perfume 25 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 75,
+        "tamano": 75,
+        "imagen": "https://ejemplo.com/perfume-25.jpg"
+    },
+    {
+        "nombre": "Perfume 26",
+        "descripcion": "Perfume 26 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 76,
+        "tamano": 76,
+        "imagen": "https://ejemplo.com/perfume-26.jpg"
+    },
+    {
+        "nombre": "Perfume 27",
+        "descripcion": "Perfume 27 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 77,
+        "tamano": 77,
+        "imagen": "https://ejemplo.com/perfume-27.jpg"
+    },
+    {
+        "nombre": "Perfume 28",
+        "descripcion": "Perfume 28 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 78,
+        "tamano": 78,
+        "imagen": "https://ejemplo.com/perfume-28.jpg"
+    },
+    {
+        "nombre": "Perfume 29",
+        "descripcion": "Perfume 29 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 79,
+        "tamano": 79,
+        "imagen": "https://ejemplo.com/perfume-29.jpg"
+    },
+    {
+        "nombre": "Perfume 30",
+        "descripcion": "Perfume 30 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 50,
+        "tamano": 80,
+        "imagen": "https://ejemplo.com/perfume-30.jpg"
+    },
+    {
+        "nombre": "Perfume 31",
+        "descripcion": "Perfume 31 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 51,
+        "tamano": 81,
+        "imagen": "https://ejemplo.com/perfume-31.jpg"
+    },
+    {
+        "nombre": "Perfume 32",
+        "descripcion": "Perfume 32 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 52,
+        "tamano": 82,
+        "imagen": "https://ejemplo.com/perfume-32.jpg"
+    },
+    {
+        "nombre": "Perfume 33",
+        "descripcion": "Perfume 33 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 53,
+        "tamano": 83,
+        "imagen": "https://ejemplo.com/perfume-33.jpg"
+    },
+    {
+        "nombre": "Perfume 34",
+        "descripcion": "Perfume 34 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 54,
+        "tamano": 84,
+        "imagen": "https://ejemplo.com/perfume-34.jpg"
+    },
+    {
+        "nombre": "Perfume 35",
+        "descripcion": "Perfume 35 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 55,
+        "tamano": 85,
+        "imagen": "https://ejemplo.com/perfume-35.jpg"
+    },
+    {
+        "nombre": "Perfume 36",
+        "descripcion": "Perfume 36 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 56,
+        "tamano": 86,
+        "imagen": "https://ejemplo.com/perfume-36.jpg"
+    },
+    {
+        "nombre": "Perfume 37",
+        "descripcion": "Perfume 37 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 57,
+        "tamano": 87,
+        "imagen": "https://ejemplo.com/perfume-37.jpg"
+    },
+    {
+        "nombre": "Perfume 38",
+        "descripcion": "Perfume 38 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 58,
+        "tamano": 88,
+        "imagen": "https://ejemplo.com/perfume-38.jpg"
+    },
+    {
+        "nombre": "Perfume 39",
+        "descripcion": "Perfume 39 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 59,
+        "tamano": 89,
+        "imagen": "https://ejemplo.com/perfume-39.jpg"
+    },
+    {
+        "nombre": "Perfume 40",
+        "descripcion": "Perfume 40 es una fragancia única que combina la sofisticación de ingredientes seleccionados con la tradición de la perfumería árabe. Las notas de salida ofrecen un frescor vibrante que da paso a un corazón especiado y floral, envolviendo la piel en un aroma exquisito. El fondo de maderas nobles y ámbar le otorga profundidad y una fijación duradera, ideal para quienes buscan un perfume que deje una impresión inolvidable.",
+        "precio": 60,
+        "tamano": 90,
+        "imagen": "https://ejemplo.com/perfume-40.jpg"
+    }
+]

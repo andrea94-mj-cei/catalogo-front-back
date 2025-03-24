@@ -12,7 +12,10 @@ const options = {
   //esquema
   const productoSchema = new mongoose.Schema({
     nombre: String,
+    descripcion: String,
     precio: Number,
+    tamano: String,
+    imagen: String,
     compras: [{ type: mongoose.Schema.Types.ObjectId, ref: "Compra" }] //todas las compras que tiene ese producto
   }, options);
    
