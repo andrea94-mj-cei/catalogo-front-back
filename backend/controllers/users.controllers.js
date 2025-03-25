@@ -28,3 +28,29 @@ export const createUsuario = async (req, res, next) => {
         res.status(400).json(responseAPI);
     }
 }
+
+export const getUser = async (req, res, next) =>{
+    try{
+      const {idusuario} = req.params; 
+  
+      const users = await Usuario.findById();
+  
+      responseAPI.data=users;
+  
+      res.status(200).json(users);
+  
+    }catch(e){
+      console.error("tuvimos un error")
+      next(e);
+    }
+}
+
+  
+export const updateUsers = (req, res, next) =>{
+  
+}
+  
+  
+export const deleteUsers = (req, res, next) =>{
+  
+}

@@ -20,12 +20,14 @@ conectarDB();
 
 //Rutas del front
 app.get('/', (req, res, next) => {
-  res.send('Bienvenidos a nuestra API de ToDo list con Express + SQLite');
+  res.send('Bienvenidos a mi catálogo');
 }
 );
+
 
 app.use("/api/v1", router);
 
 app.listen(PORT, (req, res, next) => {
     console.log(`Servidor corriendo en ${DOMAIN}:${PORT}`);
   })
+
