@@ -21,6 +21,19 @@ export const getProducto = async (req, res, next) =>{
         next(e);
     }
 }
+
+export const getAllProductos = async (req, res, next) =>{
+    try{
+
+    const productos = await Producto.find(
+        
+    )
+
+    }catch(e){
+        next(e);
+    }
+}
+
 export const createProducto = async (req, res, next) =>{
     try{
 

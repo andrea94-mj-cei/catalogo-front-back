@@ -1,6 +1,6 @@
 import Router from 'express';
 import { createUsuario, getUser, updateUsers, deleteUsers } from '../controllers/users.controllers.js';
-import { getProducto, createProducto,  updateProducto, deleteProducto, updateImgProducto} from "../controllers/producto.controllers.js";
+import { getProducto, getAllproductos, createProducto,  updateProducto, deleteProducto, updateImgProducto} from "../controllers/producto.controllers.js";
 import { uploadImg } from "../middlewares/upload.middlware.js";
 
 const router = Router();
@@ -23,7 +23,8 @@ router.get("/users", (req, res, next)=>{
 
 //CRUD PRODUCTOS
 router.get("/productos/:idproducto", getProducto);
-router.post("/productos", createProducto)
+router.get("/productos", getAllproductos);
+router.post("/productos", createProducto);
 router.put("/productos/:id/imagen", uploadImg.single('imgprod'), updateImgProducto);
 router.put("/productos/:id", updateProducto);
 router.delete("/productos/:idproducto", deleteProducto);
